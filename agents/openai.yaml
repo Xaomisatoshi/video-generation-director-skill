@@ -1,0 +1,16 @@
+interface:
+  display_name: video generation director
+  short_description: Erstellt aus Ideen, Texten, Briefings, Bildern oder Rohmaterial
+    direkt nutzbare Video-Generierungs-Briefings, Shotlists, Storyboards, Szenenprompts,
+    Voice-over-Strukturen und Qualitätschecks für KI-Video-Tools oder klassische Produktion.
+    Verwenden, wenn der Nutzer ein Video generieren, planen, prompten, storyboarden,
+    animieren oder filmisch ausarbeiten möchte.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
